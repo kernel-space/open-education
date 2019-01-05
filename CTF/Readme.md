@@ -9,6 +9,7 @@ The winner of the CTF is the player or team with the most points.
 CTF competitions are known to be a valuable asset on a resume when applying for jobs in the Information Security branche, but nevertheless playing challenges are fun too.  
 Whenever a competitions ends it is recommended to write a paper about how the challenge was solved. 
 
+More information about Capture The Flag Competitions can be found at: https://ctftime.org/
 
 
 ## What do I need to play it
